@@ -1,11 +1,12 @@
 # NetTool (toy netcat)
+ ```
  _   _      _   _______          _ 
 | \ | | ___| |_|__   __|__ _ ___| |
 |  \| |/ _ \ __|  | | / _` / __| |
 | |\  |  __/ |_   | | | (_| \__ \_|
 |_| \_|\___|\__|  |_|  \__,_|___(_)
 
-
+```
 A small educational Netcat-like tool written in Python. Useful for demonstrating basic networking, threading, and simple remote command execution in a controlled lab environment.
 
 > ⚠️ **Security notice:** This tool is for learning/demo purposes only. Do not run it on networks or hosts where you don't have explicit permission.
